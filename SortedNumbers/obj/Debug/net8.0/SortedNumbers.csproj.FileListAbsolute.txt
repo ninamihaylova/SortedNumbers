@@ -1,0 +1,14 @@
+C:\Users\ninag\RiderProjects\SortedNumbers\SortedNumbers\bin\Debug\net8.0\SortedNumbers.exe
+C:\Users\ninag\RiderProjects\SortedNumbers\SortedNumbers\bin\Debug\net8.0\SortedNumbers.deps.json
+C:\Users\ninag\RiderProjects\SortedNumbers\SortedNumbers\bin\Debug\net8.0\SortedNumbers.runtimeconfig.json
+C:\Users\ninag\RiderProjects\SortedNumbers\SortedNumbers\bin\Debug\net8.0\SortedNumbers.dll
+C:\Users\ninag\RiderProjects\SortedNumbers\SortedNumbers\bin\Debug\net8.0\SortedNumbers.pdb
+C:\Users\ninag\RiderProjects\SortedNumbers\SortedNumbers\obj\Debug\net8.0\SortedNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninag\RiderProjects\SortedNumbers\SortedNumbers\obj\Debug\net8.0\SortedNumbers.AssemblyInfoInputs.cache
+C:\Users\ninag\RiderProjects\SortedNumbers\SortedNumbers\obj\Debug\net8.0\SortedNumbers.AssemblyInfo.cs
+C:\Users\ninag\RiderProjects\SortedNumbers\SortedNumbers\obj\Debug\net8.0\SortedNumbers.csproj.CoreCompileInputs.cache
+C:\Users\ninag\RiderProjects\SortedNumbers\SortedNumbers\obj\Debug\net8.0\SortedNumbers.dll
+C:\Users\ninag\RiderProjects\SortedNumbers\SortedNumbers\obj\Debug\net8.0\refint\SortedNumbers.dll
+C:\Users\ninag\RiderProjects\SortedNumbers\SortedNumbers\obj\Debug\net8.0\SortedNumbers.pdb
+C:\Users\ninag\RiderProjects\SortedNumbers\SortedNumbers\obj\Debug\net8.0\SortedNumbers.genruntimeconfig.cache
+C:\Users\ninag\RiderProjects\SortedNumbers\SortedNumbers\obj\Debug\net8.0\ref\SortedNumbers.dll
